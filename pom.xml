@@ -5,9 +5,10 @@
 	<groupId>bhanu.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.3</version>
+	<version>0.0.4-SNAPSHOT</version>
 	
 	<!-- Demo on git hub webhooks -->
+	<!-- bhanu got error -->
 	
 	<name>maven-web-application</name>
 
