@@ -7,7 +7,6 @@
 	<packaging>war</packaging>
 	<version>0.0.4-SNAPSHOT</version>
 	
-	<!-- Demo on git hub webhooks -->
 	<!-- bhanu got error again -->
 	
 	<name>maven-web-application</name>
