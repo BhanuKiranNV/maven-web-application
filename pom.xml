@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>0.0.4-SNAPSHOT</version>
 	
-	<!-- bhanu got error again -->
+	<!-- bhanu got error again and again -->
 	
 	<name>maven-web-application</name>
 
