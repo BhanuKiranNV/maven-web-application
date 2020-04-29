@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.80.145:8081/repository/maven-flip-release/</url>
+	      <url>http://13.232.65.1:8081/repository/mvn-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.80.145:8081/repository/maven-flip-snapshot/</url>
+	      <url>http://13.232.65.1:8081/repository/mvn-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>                                                                                                
