@@ -5,7 +5,7 @@
 	<groupId>bhanu.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.4</version>
 	
 	<!-- bhanu got error again and again hi hello -->
 	<!-- devops is complicated course -->
